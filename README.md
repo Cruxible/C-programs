@@ -21,3 +21,9 @@ Temp converter program - temp.c
 
 calculator program - cal.c
 
+arrays program - arrays.c
+
+madlib program - madlib.c
+
+sleep program - sleep.c
+
