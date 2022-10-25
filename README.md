@@ -31,3 +31,7 @@ sleep program - sleep.c
 functions program - functions.c
 
 return statements - returnstatements.c
+
+switch program to replace many if statments - switch.c
+
+logical operator && - test.c
